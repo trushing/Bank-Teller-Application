@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bank Teller  Done", "Bank Teller  Done.vbproj", "{00FB608A-EC50-4E81-8ECA-86EE8EA74B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FB608A-EC50-4E81-8ECA-86EE8EA74B93}.Debug|x86.ActiveCfg = Debug|x86
+		{00FB608A-EC50-4E81-8ECA-86EE8EA74B93}.Debug|x86.Build.0 = Debug|x86
+		{00FB608A-EC50-4E81-8ECA-86EE8EA74B93}.Release|x86.ActiveCfg = Release|x86
+		{00FB608A-EC50-4E81-8ECA-86EE8EA74B93}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
